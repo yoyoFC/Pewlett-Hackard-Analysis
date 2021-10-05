@@ -29,11 +29,9 @@ We suggest to evaluate the mentorship program as soon as possible for this group
 
 ## Summary
 
-1. Mentorship by gender: I created a table to analyze the candidates for the mentorship program based on the gender. 
+1. Mentorship by gender: I created a table to analyze the candidates for the mentorship program based on the gender. The female gender represent the 41.5%, this is an important result because it shows the equal opportunity in the company. This result can be considered as an addional criteria for the new interview process to increase the number of female employees. 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88695570/135959431-5dfcb217-8b32-4f3c-87b3-882fc0b81f9d.png">
-
-The female gender represent the 41.5%, this is an important result because it shows the equal opportunity in the company. This result can be considered as an addional criteria for the new interview process to increase the number of female employees. 
 
 2. Risk for the top engineering position: The table "Retiring employees by title", shows a critical problem for the engineering department. More than 40,000 position (combining Senior Engineer and Engineer), will be vacant. It is very important start a hiring program with trainings periods.
 
